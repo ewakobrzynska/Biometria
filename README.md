@@ -2,8 +2,8 @@
 
 This project focuses on extracting Level II characteristics such as terminations and bifurcations from fingerprint images using advanced image processing techniques. Perfect for biometric identification systems, this tool leverages the SOCOFing dataset to demonstrate its capabilities.
 
-<p align="center">
-  <img src="./assets/banner.png" alt="Fingerprint Feature Extraction" width="100"/>
+<p>
+  <img src="./assets/banner.png" alt="Fingerprint Feature Extraction" width="200"/>
 </p>
 
 ## 📚 Table of Contents
