@@ -40,8 +40,8 @@ Fingerprint analysis is crucial in various security and identification applicati
 To get started, clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/ewakobrzynska/biometria.git
-cd fingerprint-feature-extraction
+git clone https://github.com/ewakobrzynska/Biometria.git
+cd Biometria
 ```
 
 
